@@ -46,7 +46,8 @@ Machine used in **Task 1** evaluations:
 
 > CPU: Intel Core i7-10700K 8-Core 3.80 GHz <br>
 > RAM: 64 GB DDR4 3200 MHz <br>
-> GPU: NVIDIA RTX 4090 24GB
+> GPU: NVIDIA RTX 4090 24GB <br>
+> System: Windows 10 Pro 
 
 Machine used in **Task 2** evaluations:
 
