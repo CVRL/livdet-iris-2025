@@ -40,7 +40,11 @@ python submission_validation.py submission_ND_001.py
 
 ### Test Machines Specifications ###
 
-Machine used in **Task 1** evaluations: ...
+Machine used in **Task 1** evaluations: 
+
+> CPU: Intel Core i7-10700K 8-Core 3.80 GHz <br>
+> RAM: 64 GB DDR4 3200 MHz <br>
+> GPU: NVIDIA RTX 4090 24GB
 
 Machine used in **Task 2** evaluations:
 
