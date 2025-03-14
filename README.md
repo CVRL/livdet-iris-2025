@@ -45,10 +45,8 @@ Machine used in **Task 1** evaluations: ...
 Machine used in **Task 2** evaluations:
 
 
-> CPU: AMD Ryzen Threadripper 3960X - 24-Core - 3.8 GHz / 4.5GHz Boost
-
-> RAM: 256GB DDR4 3200MHz (32GB x 8)
-
-> GPU: NVIDIA RTX 3090 24GB
+> CPU: AMD Ryzen Threadripper 3960X - 24-Core - 3.8 GHz / 4.5GHz Boost <br>
+> RAM: 256GB DDR4 3200MHz (32GB x 8) <br>
+> GPU: NVIDIA RTX 3090 24GB <br>
 
 Machine used in **Task 2** evaluations: ...
