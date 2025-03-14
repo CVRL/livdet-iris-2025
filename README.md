@@ -37,3 +37,11 @@ Example command line execution:
 ```
 python submission_validation.py submission_ND_001.py
 ```
+
+### Test Machines Specifications ###
+
+Machine used in **Task 1** evaluations: ...
+
+Machine used in **Task 2** evaluations: ...
+
+Machine used in **Task 2** evaluations: ...
