@@ -1,4 +1,4 @@
-# LivDet-Iris 2025 Submission Package
+# LivDet-Iris 2025 Submission Instructions
 
 
 ### Submission script ###
