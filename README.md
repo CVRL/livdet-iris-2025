@@ -6,6 +6,10 @@
 Each submission should be limited to one Python script called `submission_xyz_nnn.py` where
 `xyz` is the participant identifier, and `nnn` is the algorithm identifier (if the participant submits more than one algorithm). The script should accept two command line input arguments: a path to the input CSV file, and a path to the output CSV file.
 
+With the submission Authors might provide: 
+* `requirements.txt` file with list of libraries required to run the submission
+* additional artefacts (ex. model file) and config files for the algorithm, handling of the artifacts should be fully encapsulated in the submission python script
+
 Example command line execution:
 
 ```
@@ -37,6 +41,7 @@ Example command line execution:
 ```
 python submission_validation.py submission_ND_001.py
 ```
+The script will print  `VALID SUBMISSION` message for submission that meets the requirements. If the submission is incorrect, it will output the specific errors.   
 
 ### Test Machines Specifications ###
 

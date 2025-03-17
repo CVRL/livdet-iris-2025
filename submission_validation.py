@@ -23,7 +23,7 @@ if __name__ == '__main__':
     output_csv = pd.read_csv("output.csv")
     input_csv = pd.read_csv("sample.csv")
     if not all(output_csv.columns.values == ['index', 'filename', 'score']):
-        print("INVALID SUBMISSION: Output csv file has incorrect header. Csv should contain index, fileneme and score "
+        print("INVALID SUBMISSION: Output csv file has incorrect header. Csv should contain index, filename and score "
               "columns")
         exit(1)
 
