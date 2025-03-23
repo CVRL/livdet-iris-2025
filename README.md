@@ -60,3 +60,14 @@ Machine used in **Task 2** evaluations:
 > RAM: 256GB DDR4 3200MHz (32GB x 8) <br>
 > GPU: NVIDIA RTX 3090 24GB <br>
 > System: Ubuntu 22.04
+
+Machines used in **Task 3** evaluations:
+
+> CPU: Intel(R) Core(TM) i7-10700 CPU @ 2.90GHz<br>
+> RAM: 48 GB<br>
+> System: Windows 10 Enterprise
+
+> CPU: AMD Ryzen 7 5800X 8-Core<br>
+> RAM: 64 GB<br>
+> GPU: NVIDIA GeForce RTX 3090 (24,576 MiB)<br>
+> System: Ubuntu 22.04.4 LTS
