@@ -38,7 +38,26 @@ IJCB 2025 paper (if accepted): **[IEEEXplore](https://ieeexplore.ieee.org/) | [A
 Bibtex:
 
 ```
-
+@InProceedings{Mitcheff_IJCB_2025,
+  author    = {
+ Mitcheff, Mahsa and Hossain, Afzal and Webster, Samuel 
+ and Karim, Siamul Khan and Roszczewska, Katarzyna and Tapia, Juan 
+ and Stockhardt, Fabian and Gonzalez-Soler, Janier and Lim, Ji-Young 
+ and Pollok, Mirko and Kreuzer, Felix and Wang, Caiyong and Li, Lin 
+ and Guo, Fukang and Gu, Jiayin and Pal, Debasmita and Farmanifard, Parisa 
+ and Sharma, Renu and Ross, Arun and Sharma, Geetanjali and Ashwani, Shubham 
+ and Nigam, Aditya and Ramachandra, Raghavendra and Igene, Lambert 
+ and Dykes, Jesse and Sawilska, Ada and  Dzieniszewska, Aleksandra 
+ and Januszkiewicz, Jakub and Bartuzi-Trokielewicz, Ewelina 
+ and Martinek, Alicja and Trokielewicz, Mateusz and Kordas, Adrian 
+ and Bowyer, Kevin and Schuckers, Stephanie and Czajka, Adam},
+  booktitle = {2025 IEEE International Joint Conference on Biometrics (IJCB), Osaka, Japan},
+  title     = {{Iris Liveness Detection Competition (LivDet-Iris) –- The 2025 Edition}},
+  year      = {2025},
+  pages     = {1-10},
+  doi       = {},
+  keywords  = {},
+}
 ```
 
 <a name="acknowledgments"/></a>
