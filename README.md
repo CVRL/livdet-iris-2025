@@ -1,6 +1,11 @@
 # Iris Liveness Detection Competition (LivDet-Iris) 2025
 
-Official repository for the 2025 edition of the [Iris Liveness Detection Competition (LivDet-Iris)](https://livdet-iris.org/2025/).
+Official repository for the 2025 edition of the Iris Liveness Detection Competition (LivDet-Iris).
+
+### Quick resources 
+- Official LivDet-Iris 2025 webpage: [https://livdet-iris.org/2025](https://livdet-iris.org/2025)
+- LivDet competition series: [https://livdet.org](https://livdet.org)
+- IJCB 2025 paper (if accepted): [IEEEXplore](https://ieeexplore.ieee.org/) | [ArXiv](https://arxiv.org/).
 
 ### Table of contents
 * [Summary](#summary)
@@ -31,11 +36,7 @@ LivDet-Iris 2025 serves as the sixth edition of the iris liveness detection comp
 ### Datasets
 
 <a name="citations"/></a>
-### Citations and Papers
-
-IJCB 2025 paper (if accepted): **[IEEEXplore](https://ieeexplore.ieee.org/) | [ArXiv](https://arxiv.org/)**.
-
-Bibtex:
+### Citation
 
 ```
 @InProceedings{Mitcheff_IJCB_2025,
