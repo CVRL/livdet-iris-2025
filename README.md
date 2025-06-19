@@ -1,6 +1,6 @@
 # Iris Liveness Detection Competition (LivDet-Iris) 2025
 
-Official repository for the 2025 edition of the Iris Liveness Detection Competition (LivDet-Iris)
+Official repository for the 2025 edition of the [Iris Liveness Detection Competition (LivDet-Iris)](https://livdet-iris.org/2025/).
 
 ### Table of contents
 * [Summary](#summary)
