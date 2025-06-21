@@ -37,7 +37,7 @@ LivDet-Iris 2025 serves as the sixth edition of the iris liveness detection comp
 <a name="datasets"/></a>
 ### Datasets
 
-Instructions on how to obtain a copy of test data used in Task 2 can be found at the [Notre Dame's Computer Vision Research Lab webpage](https://cvrl.nd.edu/projects/data/). 
+Instructions on how to obtain a copy of test data used in Task 2 can be found at the [Notre Dame's Computer Vision Research Lab webpage](https://cvrl.nd.edu/projects/data/) (search for ``LivDet-Iris 2025 Task 2`` dataset).
 
 **Note:** the dataset will be added to the CVRL webpage after the LivDet-Iris paper is accepted.
 
