@@ -18,7 +18,7 @@ Official repository for the 2025 edition of the Iris Liveness Detection Competit
 <a name="summary"/></a>
 ### Summary
 
-LivDet-Iris 2025 serves as the sixth edition of the iris liveness detection competition in the LivDet-Iris series. Held every two to three years, the competition aims to foster the development of robust algorithms capable of detecting a wide range of presentation attacks in iris biometrics. The 2025 edition obtained the largest number of submissions in the history of the competition: ten algorithms from five institutions, and one complete iris recognition system from one company. LivDet-Iris 2025 also introduced new tasks compared to previous editions: (Task 1) a benchmark offered by an industry partner, (Task 2) a new attack type, morphed iris images, in which two different-identity samples were blended into one image, and (Task 3) evaluation of presentation attack detection robustness against advanced manufacturing techniques for textured contact lenses. This edition for the first time in the series offers a systematic testing of a commercial iris recognition system (software and hardware) using physical artifacts presented to the sensor. **Dermalog-Iris** team submitted algorithms that won all tasks, achieving the area under the ROC curve of 90.57, 68.23 and 99.99 in tasks 1, 2, and 3, respectively. Additionally, we include results for baseline algorithms, based on modern deep convolutional neural networks and trained with all available public datasets of iris images representing bona fide samples and anomalies (physical attacks, eye diseases, post-mortem cases, and synthetically-generated iris images). Test samples created for tasks 2 and 3, along with the baseline models, are made available with this paper to offer the state-of-the-art benchmark for iris liveness detection assessment.
+LivDet-Iris 2025 serves as the sixth edition of the iris liveness detection competition in the LivDet-Iris series. Held every two to three years, the competition aims to foster the development of robust algorithms capable of detecting a wide range of physically- and digitally-presented attacks in iris biometrics. The 2025 edition obtained the largest number of submissions in the history of the competition: ten algorithms from five institutions, and one commercial iris recognition system. 
 
 <a name="tasks"/></a>
 ### Competition Tasks
@@ -32,8 +32,14 @@ LivDet-Iris 2025 serves as the sixth edition of the iris liveness detection comp
 <a name="leaderboard"/></a>
 ### Leaderboard
 
+(will be added after official announcement of the competition results)
+
 <a name="datasets"/></a>
 ### Datasets
+
+Instructions on how to obtain a copy of test data used in Task 2 can be found at the [Notre Dame's Computer Vision Research Lab webpage](https://cvrl.nd.edu/projects/data/). 
+
+**Note:** the dataset will be added to the CVRL webpage after the LivDet-Iris paper is accepted.
 
 <a name="citations"/></a>
 ### Citation
