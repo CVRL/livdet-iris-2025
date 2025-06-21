@@ -28,9 +28,9 @@ To evaluate a trained model, use:
 ```
 python submission_baseliene_xxx.py test_set.csv test_results_xxx.csv
 ```
-Replace xxx with the model name: densenet, resnet, or vit.
+Replace `xxx` with the model name: `densenet`, `resnet`, or `vit`.
 
 ### Download the trained baseline ### 
-Basleines trained only on the authentic samples: [weights ](https://notredame.app.box.com/folder/326948164515)
+Baselines trained only on the authentic samples: [weights ](https://notredame.app.box.com/folder/326948164515)
 
-Basleines trained on both authentic and synthetic samples: [weights](https://notredame.app.box.com/folder/326947777980)
+Baselines trained on both authentic and synthetic samples: [weights](https://notredame.app.box.com/folder/326947777980)
