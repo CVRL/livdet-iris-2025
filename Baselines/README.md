@@ -31,6 +31,6 @@ python submission_baseliene_xxx.py test_set.csv test_results_xxx.csv
 Replace `xxx` with the model name: `densenet`, `resnet`, or `vit`.
 
 ### Download the trained baseline ### 
-Baselines trained only on the authentic samples: [weights ](https://notredame.app.box.com/folder/326948164515)
+Baselines trained only on the authentic samples: [weights ](https://notredame.box.com/s/2l93vl2uawyba9y4u1ph1fe18qgdwzap)
 
-Baselines trained on both authentic and synthetic samples: [weights](https://notredame.app.box.com/folder/326947777980)
+Baselines trained on both authentic and synthetic samples: [weights](https://notredame.box.com/s/4fynvx52klc662472i4jze0aisb0enc1)
