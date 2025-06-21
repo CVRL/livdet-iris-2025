@@ -12,7 +12,7 @@ Official repository for the 2025 edition of the Iris Liveness Detection Competit
 * [Competition Tasks](#tasks)
 * [Leaderboard](#leaderboard)
 * [Datasets](#datasets)
-* [Citations and Papers](#citations)
+* [Citations](#citations)
 * [Acknowledgments](#acknowledgments)
 
 <a name="summary"/></a>
