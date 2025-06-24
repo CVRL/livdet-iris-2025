@@ -42,6 +42,9 @@ Instructions on how to obtain a copy of test data used in Task 2 can be found at
 
 **Note:** the dataset will be added to the CVRL webpage after the LivDet-Iris paper is accepted.
 
+To obtain a copy of the test data used in Task 3, you may contact livdet@gmail.com to request the release agreement.
+The dataset consists of 564 bona fide iris images and 788 presentation attack samples collected from 7 subjects wearing textured contact lenses. These attack samples represent nine different contact lenses and are categorized into two quality classes: High Quality and Pixelated. Specifically, 644 high-quality samples originate from six different contact lenses, while the remaining 144 pixelated samples are from three other contact lenses.
+
 <a name="citations"/></a>
 ### Citation
 
