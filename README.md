@@ -5,7 +5,7 @@ Official repository for the 2025 edition of the Iris Liveness Detection Competit
 ### Quick resources 
 - Official LivDet-Iris 2025 webpage: [https://livdet-iris.org/2025](https://livdet-iris.org/2025)
 - LivDet competition series: [https://livdet.org](https://livdet.org)
-- IJCB 2025 paper (if accepted): [IEEEXplore](https://ieeexplore.ieee.org/) | [ArXiv](https://arxiv.org/).
+- IJCB 2025 paper: IEEEXplore | [Pre-print](https://arxiv.org/).
 
 ### Table of contents
 * [Summary](#summary)
@@ -31,16 +31,27 @@ LivDet-Iris 2025 serves as the sixth edition of the iris liveness detection comp
 - **Part 2 (Systems)** involves the systematic testing of submitted iris recognition systems based on physical artifacts presented to the sensors by a laboratory staff.
 
 <a name="leaderboard"/></a>
-### Leaderboard
+### Winners
 
-(will be added after official announcement of the competition results)
+**Part 1 -- Task 1:**
+**Winner:** DERMALOG Identification Systems GmbH, Germany (Felix Kreuzer, Ji-Young Lim, and Mirko Pollok)
+**Runner-up:** Michigan State University, Michigan, USA (Debasmita Pal, Parisa Farmanifard, Renu Sharma, and Arun Ross)
+
+**Part 1 -- Task 2:**
+**Winner:** DERMALOG Identification Systems GmbH, Germany (Felix Kreuzer, Ji-Young Lim, and Mirko Pollok)
+**Runner-up:** Indian Institute of Technology Mandi, Himachal Pradesh, India (Geetanjali Sharma, Shubham Ashwani, and Aditya Nigam)
+
+**Part 1 -- Task 3:**
+**Winner:** DERMALOG Identification Systems GmbH, Germany (Felix Kreuzer, Ji-Young Lim, and Mirko Pollok)
+**Runner-up:** Indian Institute of Technology Mandi, Himachal Pradesh, India (Geetanjali Sharma, Shubham Ashwani, and Aditya Nigam)
+
+**Part 2 (Systems):**
+We thank DERMALOG Identification Systems GmbH, Germany, for being the only participant in Part 2.
 
 <a name="datasets"/></a>
 ### Datasets
 
 Instructions on how to obtain a copy of test data used in Task 2 can be found at the [Notre Dame's Computer Vision Research Lab webpage](https://cvrl.nd.edu/projects/data/) (search for ``LivDet-Iris 2025 Task 2`` dataset).
-
-**Note:** the dataset will be added to the CVRL webpage after the LivDet-Iris paper is accepted.
 
 <a name="citations"/></a>
 ### Citation
