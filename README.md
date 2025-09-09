@@ -39,11 +39,11 @@ LivDet-Iris 2025 serves as the sixth edition of the iris liveness detection comp
 
 **Part 1 (Algorithms) -- Task 2:**<br>
 **Winner:** DERMALOG Identification Systems GmbH, Germany (Felix Kreuzer, Ji-Young Lim, and Mirko Pollok)<br>
-**Runner-up:** Indian Institute of Technology Mandi, Himachal Pradesh, India (Geetanjali Sharma, Shubham Ashwani, and Aditya Nigam)
+**Runner-up:** Indian Institute of Technology Mandi, Himachal Pradesh, India (Geetanjali Sharma, Shubham Ashwani, Raghavendra Ramachandra, and Aditya Nigam)
 
 **Part 1 (Algorithms) -- Task 3:**<br>
 **Winner:** DERMALOG Identification Systems GmbH, Germany (Felix Kreuzer, Ji-Young Lim, and Mirko Pollok)<br>
-**Runner-up:** Indian Institute of Technology Mandi, Himachal Pradesh, India (Geetanjali Sharma, Shubham Ashwani, and Aditya Nigam)
+**Runner-up:** Indian Institute of Technology Mandi, Himachal Pradesh, India (Geetanjali Sharma, Shubham Ashwani, Raghavendra Ramachandra, and Aditya Nigam)
 
 **Part 2 (Systems):**<br>
 We thank DERMALOG Identification Systems GmbH, Germany, for being the only participant in Part 2.
