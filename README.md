@@ -5,7 +5,7 @@ Official repository for the 2025 edition of the Iris Liveness Detection Competit
 ### Quick resources 
 - Official LivDet-Iris 2025 webpage: [https://livdet-iris.org/2025](https://livdet-iris.org/2025)
 - LivDet competition series: [https://livdet.org](https://livdet.org)
-- IJCB 2025 paper: IEEEXplore | [Pre-print](https://arxiv.org/).
+- IJCB 2025 paper: [Pre-print](https://livdet-iris.org/2025/livdet-iris-2025-ijcb-preprint.pdf) | IEEEXplore
 
 ### Table of contents
 * [Summary](#summary)
@@ -51,7 +51,7 @@ We thank DERMALOG Identification Systems GmbH, Germany, for being the only parti
 <a name="datasets"/></a>
 ### Datasets
 
-Instructions on how to obtain a copy of test data used in Task 2 can be found at the [Notre Dame's Computer Vision Research Lab webpage](https://cvrl.nd.edu/projects/data/) (search for ``LivDet-Iris 2025 Task 2`` dataset).
+Instructions on how to obtain a copy of test data used in Task 2 can be found at the [Notre Dame's Computer Vision Research Lab webpage](https://cvrl.nd.edu/projects/data/#nd-livdet-iris-2025-task2-dataset) (search for ``LivDet-Iris 2025 Task 2`` dataset).
 
 <a name="citations"/></a>
 ### Citation
