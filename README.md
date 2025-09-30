@@ -61,7 +61,7 @@ Instructions on how to obtain a copy of test data used in Task 2 can be found at
 
 ## Part 1 -- Task 3 (Clarkson University portion) ##
 
-To receive the Clarkson portion of LivDet 2025 database, a [this Database Release Form](Misc/CU_LivDet Iris 2025 Release Agreement.docx) needs to be signed by an authorized individual for the university or company. The scanned signed copy should be emailed to [livdet@gmail.com](livdet@gmail.com). Any questions can be directed to Stephanie Schuckers at [sschucke@clarkson.edu](sschucke@clarkson.edu).
+To receive the Clarkson portion of LivDet 2025 database, a [this Database Release Form](https://github.com/CVRL/livdet-iris-2025/blob/main/Misc/CU_LivDet%20Iris%202025%20Release%20Agreement.docx) needs to be signed by an authorized individual for the university or company. The scanned signed copy should be emailed to [livdet@gmail.com](livdet@gmail.com). Any questions can be directed to Stephanie Schuckers at [sschucke@clarkson.edu](sschucke@clarkson.edu).
 
 <a name="citations"/></a>
 ### Citation
