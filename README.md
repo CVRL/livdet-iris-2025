@@ -51,7 +51,17 @@ We thank DERMALOG Identification Systems GmbH, Germany, for being the only parti
 <a name="datasets"/></a>
 ### Datasets
 
-Instructions on how to obtain a copy of test data used in Task 2 can be found at the [Notre Dame's Computer Vision Research Lab webpage](https://cvrl.nd.edu/projects/data/#nd-livdet-iris-2025-task2-dataset) (search for ``LivDet-Iris 2025 Task 2`` dataset).
+## Part 1 -- Task 1 (Industry Partner Task) ##
+
+As communicated earlier, Task 1 raw samples are not being released, as they were sampled from an industry partner's dataset. However, we do release normalized PA scores obtained for this subset.
+
+## Part 1 -- Task 2 (University of Notre Dame portion) ##
+
+Instructions on how to obtain a copy of test data used in Task 2 can be found at the [Notre Dame's Computer Vision Research Lab webpage](https://cvrl.nd.edu/projects/data/#nd-livdet-iris-2025-task2-dataset) (search for ``LivDet-Iris 2025 Task 2`` dataset). Any questions can be directed to Adam Czajka at [aczajka@nd.edu](aczajka@nd.edu).
+
+## Part 1 -- Task 3 (Clarkson University portion) ##
+
+To receive the Clarkson portion of LivDet 2025 database, a [this Database Release Form]() needs to be signed by an authorized individual for the university or company. The scanned signed copy should be emailed to [livdet@gmail.com](livdet@gmail.com). Any questions can be directed to Stephanie Schuckers at [sschucke@clarkson.edu](sschucke@clarkson.edu).
 
 <a name="citations"/></a>
 ### Citation
